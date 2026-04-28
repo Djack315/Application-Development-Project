@@ -12,7 +12,29 @@ levels = [
     {"word": "mystery", "hint": "Something unknown"},
     {"word": "adventure", "hint": "An exciting journey"},
     {"word": "knowledge", "hint": "Gained by learning"},
-    {"word": "spellbound", "hint": "Completely fascinated"}
+    {"word": "spellbound", "hint": "Completely fascinated"},
+
+    {"word": "house", "hint": "A place to live"},
+    {"word": "chair", "hint": "Used for sitting"},
+    {"word": "bread", "hint": "Baked food"},
+    {"word": "clock", "hint": "Tells time"},
+    {"word": "ocean", "hint": "Large body of water"},
+    {"word": "bridge", "hint": "Connects two sides"},
+    {"word": "garden", "hint": "Place where flowers grow"},
+    {"word": "window", "hint": "You look through it"},
+    {"word": "thunder", "hint": "Loud storm sound"},
+    {"word": "diamond", "hint": "A precious stone"},
+
+    {"word": "library", "hint": "Place full of books"},
+    {"word": "blanket", "hint": "Keeps you warm"},
+    {"word": "journey", "hint": "A trip somewhere"},
+    {"word": "freedom", "hint": "State of being free"},
+    {"word": "picture", "hint": "An image or photo"},
+    {"word": "captain", "hint": "Leader of a ship"},
+    {"word": "sunrise", "hint": "Morning start of the day"},
+    {"word": "treasure", "hint": "Hidden valuable reward"},
+    {"word": "mountain", "hint": "Very high landform"},
+    {"word": "champion", "hint": "A winner"}
 ]
 
 current_level = 0
